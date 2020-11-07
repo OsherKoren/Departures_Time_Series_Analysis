@@ -1,4 +1,6 @@
 # Departures_Time_Series_Analysis
+https://colab.research.google.com/drive/1dCjC_81iGiDb4qr-_COG0cbTZuq5ldkw
+
 The data - The flights departures of Israelies for the years 2003-2019. 
 The data was taken from the Israel Central Bureau of Statistics.
 In this repository, I first, gathered, cleaned, prepared, and analyzed the data. With pandas and matplotlib. 
