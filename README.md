@@ -1,5 +1,4 @@
 # Departures_Time_Series_Analysis
-https://colab.research.google.com/drive/1dCjC_81iGiDb4qr-_COG0cbTZuq5ldkw
 
 The data - The flights departures of Israelies for the years 2003-2019. 
 
