@@ -1,4 +1,5 @@
 # Departures_Time_Series_Analysis
+https://nbviewer.jupyter.org/github/OsherKoren/Departures_Time_Series_Analysis/blob/main/Departures_Time_Series_Analysis.ipynb 
 
 The data - The flights departures of Israelies for the years 2003-2019. 
 
